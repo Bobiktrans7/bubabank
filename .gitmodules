@@ -1,0 +1,3 @@
+[submodule "payment_service"]
+	path = payment_service
+	url = https://github.com/Bobiktrans7/payment_service.git
