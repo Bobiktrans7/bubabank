@@ -16,3 +16,6 @@
 [submodule "notification_service"]
 	path = notification_service
 	url = https://github.com/Bobiktrans7/notification_service.git
+[submodule "static_file_service"]
+	path = static_file_service
+	url = https://github.com/Bobiktrans7/static_file_service.git
