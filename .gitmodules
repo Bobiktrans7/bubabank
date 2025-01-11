@@ -4,3 +4,15 @@
 [submodule "auth_service"]
 	path = auth_service
 	url = https://github.com/Bobiktrans7/auth_service.git
+[submodule "staff_service"]
+	path = staff_service
+	url = https://github.com/Bobiktrans7/staff_service.git
+[submodule "transfer_service"]
+	path = transfer_service
+	url = https://github.com/Bobiktrans7/transfer_service.git
+[submodule "client_service"]
+	path = client_service
+	url = https://github.com/Bobiktrans7/client_service.git
+[submodule "notification_service"]
+	path = notification_service
+	url = https://github.com/Bobiktrans7/notification_service.git
