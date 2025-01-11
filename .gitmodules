@@ -1,3 +1,6 @@
 [submodule "payment_service"]
 	path = payment_service
 	url = https://github.com/Bobiktrans7/payment_service.git
+[submodule "auth_service"]
+	path = auth_service
+	url = https://github.com/Bobiktrans7/auth_service.git
